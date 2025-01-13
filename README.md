@@ -2,21 +2,21 @@
 
 Someone like me should have started with GitHub a long time ago. Making repos public is such a good practice—it encourages a more structured approach and puts more thought into the projects. There's also a great benefit in learning from other projects.
 
-### 🚧 Current GitHub status ...
+### 🚧 Current GitHub status
 
 My account does not represent the pinnacle of my efforts. I just got started with GitHub and, in fact, made a fresh start with everything computers as I recently switched completely from Windows to Linux. Imagine wiping everything and starting afresh with an empty hard drive—all you have is a live USB to install a Linux distribution of your choice. 🙂
 
-### 🔧 I’m currently working on ...
+### 🔧 I’m currently working on
 
 - A set of Neovim plugins comprising my own project manager that integrates with everything I need.
 - I also work on system configuration and basic utilities to shape my personal Linux environment the way I want it.
 - I'm also working on some personal server projects.
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 
 Everything Linux in general. More specifically, Bash, Lua, Node.js, and WebSocket. I learn what I need as I go. ChatGPT is the best learning tool ever and makes exploration so much fun.
 
-### 📂 I’m looking to collaborate on ...
+### 📂 I’m looking to collaborate on
 
 GitHub is new to me. I have been a solo programmer since the late '90s and have been programming only as a (very intense) hobby.
 
