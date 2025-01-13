@@ -2,7 +2,7 @@
 
 Someone like me should have started with GitHub a long time ago. Making repos public is such a good practice—it encourages a more structured approach and puts more thought into the projects. There's also a great benefit in learning from other projects.
 
-🚧 Current GitHub status ...
+### 🚧 Current GitHub status ...
 
 My account does not represent the pinnacle of my efforts. I just got started with GitHub and, in fact, made a fresh start with everything computers as I recently switched completely from Windows to Linux. Imagine wiping everything and starting afresh with an empty hard drive—all you have is a live USB to install a Linux distribution of your choice. 🙂
 
