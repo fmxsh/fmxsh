@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**fmxsh/fmxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do not know github very well.
 
-Here are some ideas to get you started:
+If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Guide for submissions
+
+It is better to discuss any ideas before putting in any work (a project has a discussion page associated, as I understand). I may reject it otherwise, as it may break some deepere principles of the project or simply not align with what I prefer.
+
+### Trivia
+
+- With growing disappointment in each new release of Windows, I switched to Linux in 2023 and a year later decided to go all in.
+- I installed and ran Slackware as early as 1999, later Red Hat, Gentoo, and LFS. I had some success but would only run it for shorter periods, only to revert to Windows. Recent versions of Windows disappointed me enough to completely give up on it.
+- I found Arch Linux mostly by chance and discovered its minimalist philosophy suited me well, as it allowed me to select and configure the fundamental components myself. Selecting and evaluating each component made me realize the power of the terminal, whereby I built a terminal-centric environment. Thus, I run BSPWM, SXHKD, Tmux, Nvim, and Wezterm.
+- My early programming centered around the desire to build my own text-adventure games and MUDs (a kind of text-based multiplayer adventure game). I didn't get very far, but I learned C that way. Later, I began working on web projects and gained experience with PHP.
+- JavaScript is something I actively write today.
