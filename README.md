@@ -5,7 +5,7 @@ I do not know github very well.
 
 ### Guide for submissions
 
-If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with it.
+If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with GitHub.
 
 ### Trivia
 
