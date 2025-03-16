@@ -2,11 +2,10 @@
 
 I do not know github very well.
 
-If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with it.
 
 ### Guide for submissions
 
-It is better to discuss any ideas before putting in any work (a project has a discussion page associated, as I understand). I may reject it otherwise, as it may break some deepere principles of the project or simply not align with what I prefer.
+If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with it.
 
 ### Trivia
 
