@@ -2,7 +2,7 @@
 
 I do not know github very well.
 
-
+I use AI for a lot, but I do not use that thing called "Cursor". I do write the conceptual stuff myself, but I use AI for boilerplate and stuff that would be too time consuming. I also like fresh air and outdoor activities.
 ### Guide for submissions
 
 If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with GitHub.
