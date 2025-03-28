@@ -4,7 +4,7 @@ I do not know github very well.
 
 I use AI for a lot, but I do not use that thing called "Cursor". I do write outline the conceptual stuff myself, and I do design the larger projects myself, but I use AI for boilerplate and stuff that would be too time consuming. I also like fresh air and outdoor activities.
 
-**Why would git push-chart ever be an indicator of capability?** No one would call some productive for pressing ctrl+s... or am I missing something? In fact, insinuating ones git-chart means something, seem to indicate lesser awareness, as one doesn't seem aware it really isn't a chart of success.
+**Why would git activity chart ever be an indicator of capability?** No one would call some productive for pressing ctrl+s... or am I missing something? In fact, insinuating ones git-chart means something, seem to indicate lesser awareness, as one doesn't seem aware it really isn't a chart of success.
 
 ### Guide for submissions
 
