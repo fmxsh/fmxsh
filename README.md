@@ -5,11 +5,11 @@ I do not know GitHub very well.
 > [!NOTE]
 > My profile image is a play on the hacker stereotype, but actually, all of my computer interaction has been for recreational ends and intellectual stimulation.
 
-Are those Ray-Ban glasses?
+**Are those Ray-Ban glasses?**
 
-I bought them used for $4 USD.
+**I bought them used for $4 USD.**
 
-Ah — now I remember. That’s the only reason I bought them.
+**Ah — now I remember**. That’s the only reason I bought them.
 
 You: What would they mean if I wear them, how others see it?
 
