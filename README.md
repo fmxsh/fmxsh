@@ -37,7 +37,7 @@ I feel all meaningful, deep, or extensive projects are way beyond what the AI ca
 ## Guide for submissions
 
 - If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with GitHub.
-- I haven't yet developed my github interaction style with regard to contributions, and don't know what that would be like.
+- I haven't yet developed my GitHub interaction style with regard to contributions, and don't know what that would be like.
 - On the ontological things, I probably do not accept submissions, as it's meant be rooted in my views and struggle.
 
 ## Trivia
