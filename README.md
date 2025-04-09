@@ -2,6 +2,12 @@
 
 I do not know GitHub very well.
 
+> [!NOTE]
+> My profile image is a play on the hacker stereotype, but actually, all of my computer interaction has been for recreational ends and intellectual stimulation.
+
+> [!WARNING]
+> But, regardless, I am dead serious in whatever I do, because I am a dead serious person... So much so, in fact, that even _Humour_ itself discovered it was a mere joke in my presence.
+
 **My ontological writings are my own words and thoughts**, as I am very determined in going in certain directions; directions I have explored for many years in different ways; they are ultimately rooted in my own character, cognition, experiences, and observations.
 
 Philosophical thinking and similar really benefit from formulating things yourself — isn't it even crucial? — because it is when you push your intuition into formulated text of your own that you also know whether you know something or just think you do.
@@ -11,6 +17,8 @@ In programming, **I do outline the conceptual stuff myself**, and **I do design 
 I feel all meaningful, deep, or extensive projects are way beyond what the AI can create. The AI is good for saving time, massively, in assisting with typical things.
 
 **Why would git activity chart ever be an indicator of capability?** No one would call some productive for pressing ctrl+s... or am I missing something? In fact, insinuating ones git-chart means something, seem to indicate lesser awareness, as one doesn't seem aware it really isn't a chart of success.
+
+
 
 ### Guide for submissions
 
