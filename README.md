@@ -11,11 +11,11 @@ I do not know GitHub very well.
 
 **Ah — now I remember**. That’s the only reason I bought them.
 
-You: What would they mean if I wear them, how others see it?
+    You: What would they mean if I wear them, how others see it?
 
-ChatGPT: Stylish, but doesn’t try too hard.
+    ChatGPT: Stylish, but doesn’t try too hard.
 
-Thinks for himself.
+    Thinks for himself.
 
 Knows what’s cool — but doesn’t need to prove it.
 
