@@ -7,7 +7,7 @@ I do not know GitHub very well.
 
 **Are those Ray-Ban glasses?**
 
-**I bought them used for $4 USD.**
+I bought them used for $4 USD.
 
 **Ah — now I remember**. That’s the only reason I bought them.
 
