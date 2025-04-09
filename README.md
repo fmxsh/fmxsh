@@ -20,7 +20,7 @@ I bought them used for $4 USD.
 
 **My ontological writings are my own words and thoughts**, as I am very determined in going in certain directions; directions I have explored for many years in different ways; they are ultimately rooted in my own character, cognition, experiences, and observations.
 
-Philosophical thinking and similar really benefit from formulating things yourself — isn't it even crucial? — because it is when you push your intuition into formulated text of your own that you also know whether you know something or just think you do.
+Philosophical thinking and similar really benefit from formulating things yourself — isn't it even crucial? — because it is when you push your intuition into formulated text of your own that you also know whether you know something or just think you do. Actually, knowledge seems to be formed the very moment intuition translates into sentences and paragraphs.
 
 In programming, **I do outline the conceptual stuff myself**, and **I do design the larger projects myself**, but I use AI for boilerplate and stuff that would be too time-consuming. **I also like fresh air and outdoor activities**.
 
