@@ -11,19 +11,21 @@ I do not know GitHub very well.
 
 **Ah — now I remember**. That’s the only reason I bought them.
 
-    You:        What would they mean if I wear them, how others see it?
-    ChatGPT:    Stylish, but doesn’t try too hard.
-                Thinks for himself.
-                Knows what’s cool — but doesn’t need to prove it.
-                Might’ve paid $200… or $4. You’ll never know.
+You: What would they mean if I wear them, how others see it?
 
-    Probably reads more than he talks.
+ChatGPT:
 
-    Definitely has opinions about window managers.
+Stylish, but doesn’t try too hard.
 
-    Quietly confident. Just enough edge.
+Thinks for himself.
 
-    Maybe ironic, maybe sincere — doesn’t matter, it works.
+Knows what’s cool — but doesn’t need to prove it.
+
+Might’ve paid $200… or $4. You’ll never know.
+
+Definitely has opinions about window managers.
+
+Maybe ironic, maybe sincere — doesn’t matter, it works.
 
 > [!WARNING]
 > But, regardless, I am dead serious in whatever I do, because I am a dead serious person... So much so, in fact, that even _Humour_ itself discovered it was a mere joke in my presence.
