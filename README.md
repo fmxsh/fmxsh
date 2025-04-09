@@ -34,13 +34,13 @@ I feel all meaningful, deep, or extensive projects are way beyond what the AI ca
 
 
 
-### Guide for submissions
+## Guide for submissions
 
 - If submitting anything, please, be aware I may hit the wrong buttons before getting experienced with GitHub.
 - I haven't yet developed my github interaction style with regard to contributions, and don't know what that would be like.
 - On the ontological things, I probably do not accept submissions, as it's meant be rooted in my views and struggle.
 
-### Trivia
+## Trivia
 
 - With growing disappointment in each new release of Windows, I switched to Linux in 2023 and a year later decided to go all in.
 - I installed and ran Slackware as early as 1999, later Red Hat, Gentoo, and LFS. I had some success but would only run it for shorter periods, only to revert to Windows. Recent versions of Windows disappointed me enough to completely give up on it.
