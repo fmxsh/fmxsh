@@ -2,6 +2,8 @@
 
 I do not know GitHub very well.
 
+Mail me at "fred" at the domain fmx.sh.
+
 > [!NOTE]
 > My profile image is a play on the hacker stereotype, but actually, all of my computer interaction has been for recreational ends and intellectual stimulation.
 
