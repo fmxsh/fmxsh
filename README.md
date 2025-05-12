@@ -2,7 +2,7 @@
 
 I do not know GitHub very well.
 
-Mail me at "fred" at the domain fmx.sh.
+Mail me at "fredrik" at the domain fmx.sh.
 
 ---
 
