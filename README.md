@@ -24,6 +24,8 @@ I bought them used for $4 USD.
 
 Philosophical thinking and similar really benefit from formulating things yourself — isn't it even crucial? — because it is when you push your intuition into formulated text of your own that you also know whether you know something or just think you do. Actually, knowledge seems to be formed the very moment intuition translates into sentences and paragraphs.
 
+With regard to ontology and philosophy, I do use AI to challange and test my ideas for the purpose of furthering them.
+
 ## Programming
 
 In programming, **I do outline the conceptual stuff myself**, and **I do design the larger projects myself**, but I use AI for boilerplate and stuff that would be too time-consuming. **I also like fresh air and outdoor activities**.
